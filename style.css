@@ -1,0 +1,18 @@
+body {
+    color: #969696;
+    background-color: #18181A
+}
+
+div#main {
+    background-color: #7a7a85;
+}
+
+/*** Header ***/
+
+#main header nav {
+ background: rgb(144, 195, 212);
+}
+
+header {
+ background: #7a7a85;
+}
